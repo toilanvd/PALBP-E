@@ -1,0 +1,717 @@
+[FILE: Test-delta\Scholl-tests\Bowman-0.txt] [RUN: 1]  
+Optimal idleTime = 1.000 (R = 11.000, avgRj = 10.667)
+3 workstations
+Workstation 1: 1 2 4 -- W: 3, S: 1, T: 33.000, Rj: 11.000 (idle: 0.000)
+Workstation 2: 3 6 -- W: 2, S: 1, T: 21.000, Rj: 10.500 (idle: 0.500)
+Workstation 3: 5 7 8 -- W: 2, S: 1, T: 21.000, Rj: 10.500 (idle: 0.500)
+7 workers, 3 saved
+Wall time : 0.002s
+Total iterations: 6
+ 
+[FILE: Test-delta\Scholl-tests\Bowman-10.txt] [RUN: 1]  
+Optimal idleTime = 0.667 (R = 10.667, avgRj = 10.667)
+3 workstations
+Workstation 1: 1 2 4 -- W: 3, S: 1, T: 33.000, Rj: 11.000 (idle: -0.333)
+Workstation 2: 3 6 -- W: 2, S: 1, T: 21.000, Rj: 10.500 (idle: 0.167)
+Workstation 3: 5 7 8 -- W: 2, S: 1, T: 21.000, Rj: 10.500 (idle: 0.167)
+7 workers, 3 saved
+Wall time : 0.002s
+Total iterations: 4
+ 
+[FILE: Test-delta\Scholl-tests\Bowman-15.txt] [RUN: 1]  
+Optimal idleTime = 0.667 (R = 10.667, avgRj = 10.667)
+3 workstations
+Workstation 1: 1 2 4 -- W: 3, S: 1, T: 33.000, Rj: 11.000 (idle: -0.333)
+Workstation 2: 3 6 -- W: 2, S: 0, T: 21.000, Rj: 10.500 (idle: 0.167)
+Workstation 3: 5 7 8 -- W: 2, S: 1, T: 21.000, Rj: 10.500 (idle: 0.167)
+7 workers, 2 saved
+Wall time : 0.002s
+Total iterations: 4
+ 
+[FILE: Test-delta\Scholl-tests\Bowman-5.txt] [RUN: 1]  
+Optimal idleTime = 0.667 (R = 10.667, avgRj = 10.667)
+3 workstations
+Workstation 1: 1 2 4 -- W: 3, S: 1, T: 33.000, Rj: 11.000 (idle: -0.333)
+Workstation 2: 3 6 -- W: 2, S: 1, T: 21.000, Rj: 10.500 (idle: 0.167)
+Workstation 3: 5 7 8 -- W: 2, S: 1, T: 21.000, Rj: 10.500 (idle: 0.167)
+7 workers, 3 saved
+Wall time : 0.002s
+Total iterations: 4
+ 
+[FILE: Test-delta\Scholl-tests\Buxey-0.txt] [RUN: 1]  
+Optimal idleTime = 2.000 (R = 11.333, avgRj = 11.152)
+11 workstations
+Workstation 1: 1 2 7 -- W: 3, S: 1, T: 34.000, Rj: 11.333 (idle: 0.000)
+Workstation 2: 3 4 9 -- W: 2, S: 2, T: 22.000, Rj: 11.000 (idle: 0.333)
+Workstation 3: 5 8 10 -- W: 3, S: 2, T: 34.000, Rj: 11.333 (idle: 0.000)
+Workstation 4: 6 12 25 -- W: 3, S: 1, T: 34.000, Rj: 11.333 (idle: 0.000)
+Workstation 5: 11 21 -- W: 2, S: 1, T: 22.000, Rj: 11.000 (idle: 0.333)
+Workstation 6: 13 26 -- W: 1, S: 1, T: 11.000, Rj: 11.000 (idle: 0.333)
+Workstation 7: 14 17 20 -- W: 3, S: 2, T: 34.000, Rj: 11.333 (idle: 0.000)
+Workstation 8: 15 19 27 -- W: 3, S: 1, T: 34.000, Rj: 11.333 (idle: 0.000)
+Workstation 9: 16 18 22 -- W: 3, S: 1, T: 33.000, Rj: 11.000 (idle: 0.333)
+Workstation 10: 23 28 -- W: 3, S: 1, T: 32.000, Rj: 10.667 (idle: 0.667)
+Workstation 11: 24 29 -- W: 3, S: 1, T: 34.000, Rj: 11.333 (idle: 0.000)
+29 workers, 14 saved
+Wall time : 74.835s
+Total iterations: 82
+ 
+[FILE: Test-delta\Scholl-tests\Buxey-10.txt] [RUN: 1]  
+Optimal idleTime = 0.611 (R = 17.028, avgRj = 17.028)
+12 workstations
+Workstation 1: 1 7 9 -- W: 1, S: 2, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 2: 2 3 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 3: 4 5 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 4: 6 12 15 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 5: 8 14 25 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 6: 10 13 26 -- W: 1, S: 2, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 7: 11 17 18 -- W: 3, S: 1, T: 52.000, Rj: 17.333 (idle: -0.306)
+Workstation 8: 16 19 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 9: 20 21 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 10: 22 23 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 11: 24 29 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 12: 27 28 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+19 workers, 14 saved
+Wall time : 7.874s
+Total iterations: 208
+ 
+[FILE: Test-delta\Scholl-tests\Buxey-15.txt] [RUN: 1]  
+Optimal idleTime = 0.611 (R = 17.028, avgRj = 17.028)
+12 workstations
+Workstation 1: 1 7 9 -- W: 1, S: 2, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 2: 2 3 -- W: 2, S: 0, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 3: 4 5 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 4: 6 12 15 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 5: 8 14 25 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 6: 10 13 26 -- W: 1, S: 2, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 7: 11 17 18 -- W: 3, S: 1, T: 52.000, Rj: 17.333 (idle: -0.306)
+Workstation 8: 16 19 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 9: 20 21 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 10: 22 23 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 11: 24 29 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 12: 27 28 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+19 workers, 13 saved
+Wall time : 7.473s
+Total iterations: 195
+ 
+[FILE: Test-delta\Scholl-tests\Buxey-5.txt] [RUN: 1]  
+Optimal idleTime = 0.611 (R = 17.028, avgRj = 17.028)
+12 workstations
+Workstation 1: 1 7 9 -- W: 1, S: 2, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 2: 2 3 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 3: 4 5 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 4: 6 12 15 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 5: 8 14 25 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 6: 10 13 26 -- W: 1, S: 2, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 7: 11 17 18 -- W: 3, S: 1, T: 52.000, Rj: 17.333 (idle: -0.306)
+Workstation 8: 16 19 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 9: 20 21 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 10: 22 23 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 11: 24 29 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 12: 27 28 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+19 workers, 14 saved
+Wall time : 6.581s
+Total iterations: 157
+ 
+[FILE: Test-delta\Scholl-tests\Gunther-0.txt] [RUN: 1]  
+Optimal idleTime = 5.333 (R = 16.000, avgRj = 15.644)
+15 workstations
+Workstation 1: 1 17 -- W: 2, S: 1, T: 31.000, Rj: 15.500 (idle: 0.500)
+Workstation 2: 2 3 4 -- W: 2, S: 2, T: 30.000, Rj: 15.000 (idle: 1.000)
+Workstation 3: 5 11 -- W: 2, S: 1, T: 29.000, Rj: 14.500 (idle: 1.500)
+Workstation 4: 6 7 -- W: 1, S: 1, T: 16.000, Rj: 16.000 (idle: 0.000)
+Workstation 5: 8 9 25 -- W: 2, S: 2, T: 32.000, Rj: 16.000 (idle: 0.000)
+Workstation 6: 10 14 -- W: 2, S: 1, T: 32.000, Rj: 16.000 (idle: 0.000)
+Workstation 7: 12 18 -- W: 2, S: 1, T: 32.000, Rj: 16.000 (idle: 0.000)
+Workstation 8: 13 24 -- W: 3, S: 1, T: 46.000, Rj: 15.333 (idle: 0.667)
+Workstation 9: 15 16 -- W: 3, S: 1, T: 48.000, Rj: 16.000 (idle: 0.000)
+Workstation 10: 19 20 -- W: 3, S: 1, T: 48.000, Rj: 16.000 (idle: 0.000)
+Workstation 11: 21 30 31 -- W: 1, S: 2, T: 16.000, Rj: 16.000 (idle: 0.000)
+Workstation 12: 22 26 32 -- W: 1, S: 2, T: 16.000, Rj: 16.000 (idle: 0.000)
+Workstation 13: 23 -- W: 1, S: 0, T: 16.000, Rj: 16.000 (idle: 0.000)
+Workstation 14: 27 28 29 -- W: 3, S: 2, T: 47.000, Rj: 15.667 (idle: 0.333)
+Workstation 15: 33 34 35 -- W: 3, S: 2, T: 44.000, Rj: 14.667 (idle: 1.333)
+31 workers, 20 saved
+Wall time : 24084.976s
+Total iterations: 5454
+ 
+[FILE: Test-delta\Scholl-tests\Gunther-10.txt] [RUN: 1]  
+Optimal idleTime = 3.800 (R = 14.633, avgRj = 14.633)
+15 workstations
+Workstation 1: 1 -- W: 2, S: 0, T: 29.000, Rj: 14.500 (idle: 0.133)
+Workstation 2: 2 3 5 -- W: 1, S: 2, T: 14.000, Rj: 14.000 (idle: 0.633)
+Workstation 3: 4 7 8 -- W: 2, S: 2, T: 29.000, Rj: 14.500 (idle: 0.133)
+Workstation 4: 6 10 17 -- W: 3, S: 1, T: 46.000, Rj: 15.333 (idle: -0.700)
+Workstation 5: 9 14 15 -- W: 3, S: 2, T: 43.000, Rj: 14.333 (idle: 0.300)
+Workstation 6: 11 18 19 -- W: 3, S: 2, T: 44.000, Rj: 14.667 (idle: -0.033)
+Workstation 7: 12 -- W: 2, S: 0, T: 30.000, Rj: 15.000 (idle: -0.367)
+Workstation 8: 13 21 -- W: 2, S: 1, T: 29.000, Rj: 14.500 (idle: 0.133)
+Workstation 9: 16 -- W: 2, S: 0, T: 29.000, Rj: 14.500 (idle: 0.133)
+Workstation 10: 20 -- W: 2, S: 0, T: 29.000, Rj: 14.500 (idle: 0.133)
+Workstation 11: 22 25 -- W: 1, S: 1, T: 15.000, Rj: 15.000 (idle: -0.367)
+Workstation 12: 23 24 26 -- W: 3, S: 1, T: 44.000, Rj: 14.667 (idle: -0.033)
+Workstation 13: 27 30 31 -- W: 1, S: 2, T: 15.000, Rj: 15.000 (idle: -0.367)
+Workstation 14: 28 29 32 -- W: 3, S: 2, T: 43.000, Rj: 14.333 (idle: 0.300)
+Workstation 15: 33 34 35 -- W: 3, S: 2, T: 44.000, Rj: 14.667 (idle: -0.033)
+33 workers, 18 saved
+Wall time : 34624.561s
+Total iterations: 5572
+ 
+[FILE: Test-delta\Scholl-tests\Gunther-15.txt] [RUN: 1]  
+Optimal idleTime = 3.800 (R = 14.633, avgRj = 14.633)
+15 workstations
+Workstation 1: 1 -- W: 2, S: 0, T: 29.000, Rj: 14.500 (idle: 0.133)
+Workstation 2: 2 3 5 -- W: 1, S: 2, T: 14.000, Rj: 14.000 (idle: 0.633)
+Workstation 3: 4 7 8 -- W: 2, S: 2, T: 29.000, Rj: 14.500 (idle: 0.133)
+Workstation 4: 6 10 17 -- W: 3, S: 1, T: 46.000, Rj: 15.333 (idle: -0.700)
+Workstation 5: 9 14 15 -- W: 3, S: 2, T: 43.000, Rj: 14.333 (idle: 0.300)
+Workstation 6: 11 18 19 -- W: 3, S: 2, T: 44.000, Rj: 14.667 (idle: -0.033)
+Workstation 7: 12 -- W: 2, S: 0, T: 30.000, Rj: 15.000 (idle: -0.367)
+Workstation 8: 13 21 -- W: 2, S: 1, T: 29.000, Rj: 14.500 (idle: 0.133)
+Workstation 9: 16 -- W: 2, S: 0, T: 29.000, Rj: 14.500 (idle: 0.133)
+Workstation 10: 20 -- W: 2, S: 0, T: 29.000, Rj: 14.500 (idle: 0.133)
+Workstation 11: 22 25 -- W: 1, S: 1, T: 15.000, Rj: 15.000 (idle: -0.367)
+Workstation 12: 23 24 26 -- W: 3, S: 1, T: 44.000, Rj: 14.667 (idle: -0.033)
+Workstation 13: 27 30 31 -- W: 1, S: 2, T: 15.000, Rj: 15.000 (idle: -0.367)
+Workstation 14: 28 29 32 -- W: 3, S: 2, T: 43.000, Rj: 14.333 (idle: 0.300)
+Workstation 15: 33 34 35 -- W: 3, S: 2, T: 44.000, Rj: 14.667 (idle: -0.033)
+33 workers, 18 saved
+Wall time : 39159.439s
+Total iterations: 6617
+ 
+[FILE: Test-delta\Scholl-tests\Gunther-5.txt] [RUN: 1]  
+Optimal idleTime = 3.800 (R = 14.633, avgRj = 14.633)
+15 workstations
+Workstation 1: 1 -- W: 2, S: 0, T: 29.000, Rj: 14.500 (idle: 0.133)
+Workstation 2: 2 3 5 -- W: 1, S: 2, T: 14.000, Rj: 14.000 (idle: 0.633)
+Workstation 3: 4 7 8 -- W: 2, S: 2, T: 29.000, Rj: 14.500 (idle: 0.133)
+Workstation 4: 6 10 17 -- W: 3, S: 1, T: 46.000, Rj: 15.333 (idle: -0.700)
+Workstation 5: 9 14 15 -- W: 3, S: 2, T: 43.000, Rj: 14.333 (idle: 0.300)
+Workstation 6: 11 18 19 -- W: 3, S: 2, T: 44.000, Rj: 14.667 (idle: -0.033)
+Workstation 7: 12 -- W: 2, S: 0, T: 30.000, Rj: 15.000 (idle: -0.367)
+Workstation 8: 13 21 -- W: 2, S: 1, T: 29.000, Rj: 14.500 (idle: 0.133)
+Workstation 9: 16 -- W: 2, S: 0, T: 29.000, Rj: 14.500 (idle: 0.133)
+Workstation 10: 20 -- W: 2, S: 0, T: 29.000, Rj: 14.500 (idle: 0.133)
+Workstation 11: 22 25 -- W: 1, S: 1, T: 15.000, Rj: 15.000 (idle: -0.367)
+Workstation 12: 23 24 26 -- W: 3, S: 2, T: 44.000, Rj: 14.667 (idle: -0.033)
+Workstation 13: 27 30 31 -- W: 1, S: 2, T: 15.000, Rj: 15.000 (idle: -0.367)
+Workstation 14: 28 29 32 -- W: 3, S: 2, T: 43.000, Rj: 14.333 (idle: 0.300)
+Workstation 15: 33 34 35 -- W: 3, S: 2, T: 44.000, Rj: 14.667 (idle: -0.033)
+33 workers, 19 saved
+Wall time : 30936.808s
+Total iterations: 5713
+ 
+[FILE: Test-delta\Scholl-tests\Heskia-0.txt] [RUN: 1]  
+Optimal idleTime = 2.667 (R = 39.667, avgRj = 39.400)
+10 workstations
+Workstation 1: 1 5 22 -- W: 2, S: 2, T: 79.000, Rj: 39.500 (idle: 0.167)
+Workstation 2: 2 6 9 -- W: 3, S: 1, T: 117.000, Rj: 39.000 (idle: 0.667)
+Workstation 3: 3 7 20 -- W: 3, S: 1, T: 117.000, Rj: 39.000 (idle: 0.667)
+Workstation 4: 4 11 14 -- W: 2, S: 2, T: 79.000, Rj: 39.500 (idle: 0.167)
+Workstation 5: 8 21 -- W: 2, S: 1, T: 79.000, Rj: 39.500 (idle: 0.167)
+Workstation 6: 10 12 19 -- W: 3, S: 2, T: 119.000, Rj: 39.667 (idle: 0.000)
+Workstation 7: 13 16 23 -- W: 3, S: 2, T: 119.000, Rj: 39.667 (idle: 0.000)
+Workstation 8: 15 27 28 -- W: 2, S: 2, T: 79.000, Rj: 39.500 (idle: 0.167)
+Workstation 9: 17 24 -- W: 3, S: 1, T: 118.000, Rj: 39.333 (idle: 0.333)
+Workstation 10: 18 25 26 -- W: 3, S: 2, T: 118.000, Rj: 39.333 (idle: 0.333)
+26 workers, 16 saved
+Wall time : 271.094s
+Total iterations: 927
+ 
+[FILE: Test-delta\Scholl-tests\Heskia-10.txt] [RUN: 1]  
+Optimal idleTime = 1.500 (R = 38.000, avgRj = 37.950)
+10 workstations
+Workstation 1: 1 4 -- W: 2, S: 1, T: 76.000, Rj: 38.000 (idle: 0.000)
+Workstation 2: 2 5 10 -- W: 3, S: 2, T: 113.000, Rj: 37.667 (idle: 0.333)
+Workstation 3: 3 16 28 -- W: 3, S: 1, T: 113.000, Rj: 37.667 (idle: 0.333)
+Workstation 4: 6 12 20 -- W: 3, S: 1, T: 113.000, Rj: 37.667 (idle: 0.333)
+Workstation 5: 7 14 18 -- W: 2, S: 2, T: 77.000, Rj: 38.500 (idle: -0.500)
+Workstation 6: 8 9 24 -- W: 3, S: 1, T: 114.000, Rj: 38.000 (idle: 0.000)
+Workstation 7: 11 19 22 -- W: 2, S: 2, T: 76.000, Rj: 38.000 (idle: 0.000)
+Workstation 8: 13 23 26 -- W: 3, S: 2, T: 114.000, Rj: 38.000 (idle: 0.000)
+Workstation 9: 15 25 27 -- W: 3, S: 2, T: 114.000, Rj: 38.000 (idle: 0.000)
+Workstation 10: 17 21 -- W: 3, S: 1, T: 114.000, Rj: 38.000 (idle: 0.000)
+27 workers, 15 saved
+Wall time : 193.534s
+Total iterations: 434
+ 
+[FILE: Test-delta\Scholl-tests\Heskia-15.txt] [RUN: 1]  
+Optimal idleTime = 1.500 (R = 38.000, avgRj = 37.950)
+10 workstations
+Workstation 1: 1 4 -- W: 2, S: 1, T: 76.000, Rj: 38.000 (idle: 0.000)
+Workstation 2: 2 5 10 -- W: 3, S: 2, T: 113.000, Rj: 37.667 (idle: 0.333)
+Workstation 3: 3 16 28 -- W: 3, S: 1, T: 113.000, Rj: 37.667 (idle: 0.333)
+Workstation 4: 6 12 20 -- W: 3, S: 1, T: 113.000, Rj: 37.667 (idle: 0.333)
+Workstation 5: 7 14 18 -- W: 2, S: 2, T: 77.000, Rj: 38.500 (idle: -0.500)
+Workstation 6: 8 9 24 -- W: 3, S: 1, T: 114.000, Rj: 38.000 (idle: 0.000)
+Workstation 7: 11 19 22 -- W: 2, S: 2, T: 76.000, Rj: 38.000 (idle: 0.000)
+Workstation 8: 13 23 26 -- W: 3, S: 2, T: 114.000, Rj: 38.000 (idle: 0.000)
+Workstation 9: 15 25 27 -- W: 3, S: 2, T: 114.000, Rj: 38.000 (idle: 0.000)
+Workstation 10: 17 21 -- W: 3, S: 1, T: 114.000, Rj: 38.000 (idle: 0.000)
+27 workers, 15 saved
+Wall time : 192.840s
+Total iterations: 500
+ 
+[FILE: Test-delta\Scholl-tests\Heskia-5.txt] [RUN: 1]  
+Optimal idleTime = 1.500 (R = 38.000, avgRj = 37.950)
+10 workstations
+Workstation 1: 1 4 -- W: 2, S: 1, T: 76.000, Rj: 38.000 (idle: 0.000)
+Workstation 2: 2 5 10 -- W: 3, S: 2, T: 113.000, Rj: 37.667 (idle: 0.333)
+Workstation 3: 3 16 28 -- W: 3, S: 1, T: 113.000, Rj: 37.667 (idle: 0.333)
+Workstation 4: 6 12 20 -- W: 3, S: 1, T: 113.000, Rj: 37.667 (idle: 0.333)
+Workstation 5: 7 14 18 -- W: 2, S: 2, T: 77.000, Rj: 38.500 (idle: -0.500)
+Workstation 6: 8 9 24 -- W: 3, S: 1, T: 114.000, Rj: 38.000 (idle: 0.000)
+Workstation 7: 11 19 22 -- W: 2, S: 2, T: 76.000, Rj: 38.000 (idle: 0.000)
+Workstation 8: 13 23 26 -- W: 3, S: 2, T: 114.000, Rj: 38.000 (idle: 0.000)
+Workstation 9: 15 25 27 -- W: 3, S: 2, T: 114.000, Rj: 38.000 (idle: 0.000)
+Workstation 10: 17 21 -- W: 3, S: 1, T: 114.000, Rj: 38.000 (idle: 0.000)
+27 workers, 15 saved
+Wall time : 193.456s
+Total iterations: 459
+ 
+[FILE: Test-delta\Scholl-tests\Jackson-0.txt] [RUN: 1]  
+Optimal idleTime = 0.333 (R = 4.667, avgRj = 4.583)
+4 workstations
+Workstation 1: 1 2 5 -- W: 2, S: 2, T: 9.000, Rj: 4.500 (idle: 0.167)
+Workstation 2: 3 4 6 -- W: 3, S: 2, T: 14.000, Rj: 4.667 (idle: 0.000)
+Workstation 3: 7 8 9 -- W: 3, S: 2, T: 14.000, Rj: 4.667 (idle: 0.000)
+Workstation 4: 10 11 -- W: 2, S: 1, T: 9.000, Rj: 4.500 (idle: 0.167)
+10 workers, 7 saved
+Wall time : 0.008s
+Total iterations: 15
+ 
+[FILE: Test-delta\Scholl-tests\Jackson-10.txt] [RUN: 1]  
+Optimal idleTime = 0.333 (R = 4.583, avgRj = 4.583)
+4 workstations
+Workstation 1: 1 2 5 -- W: 2, S: 2, T: 9.000, Rj: 4.500 (idle: 0.083)
+Workstation 2: 3 4 6 -- W: 3, S: 1, T: 14.000, Rj: 4.667 (idle: -0.083)
+Workstation 3: 7 8 9 -- W: 3, S: 1, T: 14.000, Rj: 4.667 (idle: -0.083)
+Workstation 4: 10 11 -- W: 2, S: 0, T: 9.000, Rj: 4.500 (idle: 0.083)
+10 workers, 4 saved
+Wall time : 0.006s
+Total iterations: 11
+ 
+[FILE: Test-delta\Scholl-tests\Jackson-15.txt] [RUN: 1]  
+Optimal idleTime = 0.333 (R = 4.583, avgRj = 4.583)
+4 workstations
+Workstation 1: 1 2 5 -- W: 2, S: 2, T: 9.000, Rj: 4.500 (idle: 0.083)
+Workstation 2: 3 4 6 -- W: 3, S: 1, T: 14.000, Rj: 4.667 (idle: -0.083)
+Workstation 3: 7 8 9 -- W: 3, S: 1, T: 14.000, Rj: 4.667 (idle: -0.083)
+Workstation 4: 10 11 -- W: 2, S: 0, T: 9.000, Rj: 4.500 (idle: 0.083)
+10 workers, 4 saved
+Wall time : 0.008s
+Total iterations: 19
+ 
+[FILE: Test-delta\Scholl-tests\Jackson-5.txt] [RUN: 1]  
+Optimal idleTime = 0.333 (R = 4.583, avgRj = 4.583)
+4 workstations
+Workstation 1: 1 2 5 -- W: 2, S: 2, T: 9.000, Rj: 4.500 (idle: 0.083)
+Workstation 2: 3 4 6 -- W: 3, S: 2, T: 14.000, Rj: 4.667 (idle: -0.083)
+Workstation 3: 7 8 9 -- W: 3, S: 2, T: 14.000, Rj: 4.667 (idle: -0.083)
+Workstation 4: 10 11 -- W: 2, S: 1, T: 9.000, Rj: 4.500 (idle: 0.083)
+10 workers, 7 saved
+Wall time : 0.006s
+Total iterations: 11
+ 
+[FILE: Test-delta\Scholl-tests\Jaeschke-0.txt] [RUN: 1]  
+Optimal idleTime = 0.667 (R = 4.333, avgRj = 4.111)
+3 workstations
+Workstation 1: 1 2 3 -- W: 3, S: 1, T: 12.000, Rj: 4.000 (idle: 0.333)
+Workstation 2: 4 5 8 -- W: 3, S: 1, T: 13.000, Rj: 4.333 (idle: 0.000)
+Workstation 3: 6 7 9 -- W: 3, S: 2, T: 12.000, Rj: 4.000 (idle: 0.333)
+9 workers, 4 saved
+Wall time : 0.002s
+Total iterations: 14
+ 
+[FILE: Test-delta\Scholl-tests\Jaeschke-10.txt] [RUN: 1]  
+Optimal idleTime = 0.444 (R = 4.111, avgRj = 4.111)
+3 workstations
+Workstation 1: 1 2 3 -- W: 3, S: 1, T: 12.000, Rj: 4.000 (idle: 0.111)
+Workstation 2: 4 5 8 -- W: 3, S: 1, T: 13.000, Rj: 4.333 (idle: -0.222)
+Workstation 3: 6 7 9 -- W: 3, S: 2, T: 12.000, Rj: 4.000 (idle: 0.111)
+9 workers, 4 saved
+Wall time : 0.003s
+Total iterations: 11
+ 
+[FILE: Test-delta\Scholl-tests\Jaeschke-15.txt] [RUN: 1]  
+Optimal idleTime = 0.444 (R = 4.111, avgRj = 4.111)
+3 workstations
+Workstation 1: 1 2 3 -- W: 3, S: 1, T: 12.000, Rj: 4.000 (idle: 0.111)
+Workstation 2: 4 5 8 -- W: 3, S: 1, T: 13.000, Rj: 4.333 (idle: -0.222)
+Workstation 3: 6 7 9 -- W: 3, S: 2, T: 12.000, Rj: 4.000 (idle: 0.111)
+9 workers, 4 saved
+Wall time : 0.002s
+Total iterations: 12
+ 
+[FILE: Test-delta\Scholl-tests\Jaeschke-5.txt] [RUN: 1]  
+Optimal idleTime = 0.460 (R = 4.127, avgRj = 4.111)
+3 workstations
+Workstation 1: 1 2 3 -- W: 3, S: 1, T: 12.000, Rj: 4.000 (idle: 0.127)
+Workstation 2: 4 5 8 -- W: 3, S: 1, T: 13.000, Rj: 4.333 (idle: -0.206)
+Workstation 3: 6 7 9 -- W: 3, S: 2, T: 12.000, Rj: 4.000 (idle: 0.127)
+9 workers, 4 saved
+Wall time : 0.002s
+Total iterations: 5
+ 
+[FILE: Test-delta\Scholl-tests\Lutz1-0.txt] [RUN: 1]  
+Optimal idleTime = 253.667 (R = 543.000, avgRj = 521.861)
+12 workstations
+Workstation 1: 1 2 5 -- W: 2, S: 1, T: 1086.000, Rj: 543.000 (idle: 0.000)
+Workstation 2: 3 -- W: 1, S: 0, T: 520.000, Rj: 520.000 (idle: 23.000)
+Workstation 3: 4 6 -- W: 3, S: 1, T: 1596.000, Rj: 532.000 (idle: 11.000)
+Workstation 4: 7 20 -- W: 1, S: 1, T: 538.000, Rj: 538.000 (idle: 5.000)
+Workstation 5: 8 15 16 -- W: 3, S: 1, T: 1608.000, Rj: 536.000 (idle: 7.000)
+Workstation 6: 9 10 11 -- W: 3, S: 1, T: 1566.000, Rj: 522.000 (idle: 21.000)
+Workstation 7: 12 13 14 -- W: 2, S: 2, T: 1008.000, Rj: 504.000 (idle: 39.000)
+Workstation 8: 17 18 19 -- W: 3, S: 2, T: 1622.000, Rj: 540.667 (idle: 2.333)
+Workstation 9: 21 22 23 -- W: 2, S: 2, T: 996.000, Rj: 498.000 (idle: 45.000)
+Workstation 10: 24 31 32 -- W: 2, S: 1, T: 954.000, Rj: 477.000 (idle: 66.000)
+Workstation 11: 25 26 27 -- W: 3, S: 1, T: 1628.000, Rj: 542.667 (idle: 0.333)
+Workstation 12: 28 29 30 -- W: 2, S: 1, T: 1018.000, Rj: 509.000 (idle: 34.000)
+27 workers, 14 saved
+Wall time : 61.565s
+Total iterations: 63
+ 
+[FILE: Test-delta\Scholl-tests\Lutz1-10.txt] [RUN: 1]  
+Optimal idleTime = 185.333 (R = 645.611, avgRj = 645.611)
+12 workstations
+Workstation 1: 1 2 3 -- W: 2, S: 1, T: 1254.000, Rj: 627.000 (idle: 18.611)
+Workstation 2: 4 5 6 -- W: 3, S: 1, T: 1948.000, Rj: 649.333 (idle: -3.722)
+Workstation 3: 7 10 13 -- W: 2, S: 1, T: 1270.000, Rj: 635.000 (idle: 10.611)
+Workstation 4: 8 18 21 -- W: 2, S: 1, T: 1234.000, Rj: 617.000 (idle: 28.611)
+Workstation 5: 9 11 12 -- W: 2, S: 1, T: 1316.000, Rj: 658.000 (idle: -12.389)
+Workstation 6: 14 15 -- W: 1, S: 1, T: 660.000, Rj: 660.000 (idle: -14.389)
+Workstation 7: 16 17 -- W: 2, S: 0, T: 1310.000, Rj: 655.000 (idle: -9.389)
+Workstation 8: 19 20 -- W: 1, S: 1, T: 652.000, Rj: 652.000 (idle: -6.389)
+Workstation 9: 22 23 25 -- W: 2, S: 1, T: 1278.000, Rj: 639.000 (idle: 6.611)
+Workstation 10: 24 28 29 -- W: 2, S: 1, T: 1280.000, Rj: 640.000 (idle: 5.611)
+Workstation 11: 26 27 -- W: 2, S: 1, T: 1246.000, Rj: 623.000 (idle: 22.611)
+Workstation 12: 30 31 32 -- W: 1, S: 2, T: 692.000, Rj: 692.000 (idle: -46.389)
+22 workers, 12 saved
+Wall time : 19.158s
+Total iterations: 52
+ 
+[FILE: Test-delta\Scholl-tests\Lutz1-15.txt] [RUN: 1]  
+Optimal idleTime = 185.333 (R = 645.611, avgRj = 645.611)
+12 workstations
+Workstation 1: 1 2 3 -- W: 2, S: 1, T: 1254.000, Rj: 627.000 (idle: 18.611)
+Workstation 2: 4 5 6 -- W: 3, S: 1, T: 1948.000, Rj: 649.333 (idle: -3.722)
+Workstation 3: 7 10 13 -- W: 2, S: 1, T: 1270.000, Rj: 635.000 (idle: 10.611)
+Workstation 4: 8 18 21 -- W: 2, S: 1, T: 1234.000, Rj: 617.000 (idle: 28.611)
+Workstation 5: 9 11 12 -- W: 2, S: 1, T: 1316.000, Rj: 658.000 (idle: -12.389)
+Workstation 6: 14 15 -- W: 1, S: 1, T: 660.000, Rj: 660.000 (idle: -14.389)
+Workstation 7: 16 17 -- W: 2, S: 0, T: 1310.000, Rj: 655.000 (idle: -9.389)
+Workstation 8: 19 20 -- W: 1, S: 1, T: 652.000, Rj: 652.000 (idle: -6.389)
+Workstation 9: 22 23 25 -- W: 2, S: 1, T: 1278.000, Rj: 639.000 (idle: 6.611)
+Workstation 10: 24 28 29 -- W: 2, S: 1, T: 1280.000, Rj: 640.000 (idle: 5.611)
+Workstation 11: 26 27 -- W: 2, S: 1, T: 1246.000, Rj: 623.000 (idle: 22.611)
+Workstation 12: 30 31 32 -- W: 1, S: 2, T: 692.000, Rj: 692.000 (idle: -46.389)
+22 workers, 12 saved
+Wall time : 22.449s
+Total iterations: 55
+ 
+[FILE: Test-delta\Scholl-tests\Lutz1-5.txt] [RUN: 1]  
+Optimal idleTime = 187.667 (R = 528.667, avgRj = 521.970)
+11 workstations
+Workstation 1: 1 2 5 -- W: 2, S: 1, T: 1086.000, Rj: 543.000 (idle: -14.333)
+Workstation 2: 3 9 11 -- W: 3, S: 1, T: 1574.000, Rj: 524.667 (idle: 4.000)
+Workstation 3: 4 6 -- W: 3, S: 1, T: 1596.000, Rj: 532.000 (idle: -3.333)
+Workstation 4: 7 16 18 -- W: 3, S: 2, T: 1586.000, Rj: 528.667 (idle: 0.000)
+Workstation 5: 8 19 20 -- W: 2, S: 1, T: 1108.000, Rj: 554.000 (idle: -25.333)
+Workstation 6: 10 15 17 -- W: 3, S: 1, T: 1586.000, Rj: 528.667 (idle: 0.000)
+Workstation 7: 12 13 14 -- W: 2, S: 1, T: 1008.000, Rj: 504.000 (idle: 24.667)
+Workstation 8: 21 22 23 -- W: 2, S: 1, T: 996.000, Rj: 498.000 (idle: 30.667)
+Workstation 9: 24 31 32 -- W: 2, S: 1, T: 954.000, Rj: 477.000 (idle: 51.667)
+Workstation 10: 25 26 27 -- W: 3, S: 1, T: 1628.000, Rj: 542.667 (idle: -14.000)
+Workstation 11: 28 29 30 -- W: 2, S: 1, T: 1018.000, Rj: 509.000 (idle: 19.667)
+27 workers, 12 saved
+Wall time : 21.951s
+Total iterations: 47
+ 
+[FILE: Test-delta\Scholl-tests\Mansoor-0.txt] [RUN: 1]  
+Optimal idleTime = 2.500 (R = 27.000, avgRj = 26.375)
+4 workstations
+Workstation 1: 1 2 5 -- W: 2, S: 2, T: 52.000, Rj: 26.000 (idle: 1.000)
+Workstation 2: 3 6 -- W: 2, S: 1, T: 53.000, Rj: 26.500 (idle: 0.500)
+Workstation 3: 4 7 9 -- W: 1, S: 2, T: 26.000, Rj: 26.000 (idle: 1.000)
+Workstation 4: 8 10 11 -- W: 2, S: 2, T: 54.000, Rj: 27.000 (idle: 0.000)
+7 workers, 7 saved
+Wall time : 0.005s
+Total iterations: 7
+ 
+[FILE: Test-delta\Scholl-tests\Mansoor-10.txt] [RUN: 1]  
+Optimal idleTime = 1.500 (R = 26.375, avgRj = 26.375)
+4 workstations
+Workstation 1: 1 2 5 -- W: 2, S: 2, T: 52.000, Rj: 26.000 (idle: 0.375)
+Workstation 2: 3 6 -- W: 2, S: 1, T: 53.000, Rj: 26.500 (idle: -0.125)
+Workstation 3: 4 7 9 -- W: 1, S: 2, T: 26.000, Rj: 26.000 (idle: 0.375)
+Workstation 4: 8 10 11 -- W: 2, S: 2, T: 54.000, Rj: 27.000 (idle: -0.625)
+7 workers, 7 saved
+Wall time : 0.006s
+Total iterations: 6
+ 
+[FILE: Test-delta\Scholl-tests\Mansoor-15.txt] [RUN: 1]  
+Optimal idleTime = 1.500 (R = 26.375, avgRj = 26.375)
+4 workstations
+Workstation 1: 1 2 5 -- W: 2, S: 2, T: 52.000, Rj: 26.000 (idle: 0.375)
+Workstation 2: 3 6 -- W: 2, S: 1, T: 53.000, Rj: 26.500 (idle: -0.125)
+Workstation 3: 4 7 9 -- W: 1, S: 2, T: 26.000, Rj: 26.000 (idle: 0.375)
+Workstation 4: 8 10 11 -- W: 2, S: 2, T: 54.000, Rj: 27.000 (idle: -0.625)
+7 workers, 7 saved
+Wall time : 0.003s
+Total iterations: 8
+ 
+[FILE: Test-delta\Scholl-tests\Mansoor-5.txt] [RUN: 1]  
+Optimal idleTime = 1.500 (R = 26.375, avgRj = 26.375)
+4 workstations
+Workstation 1: 1 2 5 -- W: 2, S: 2, T: 52.000, Rj: 26.000 (idle: 0.375)
+Workstation 2: 3 6 -- W: 2, S: 1, T: 53.000, Rj: 26.500 (idle: -0.125)
+Workstation 3: 4 7 9 -- W: 1, S: 2, T: 26.000, Rj: 26.000 (idle: 0.375)
+Workstation 4: 8 10 11 -- W: 2, S: 2, T: 54.000, Rj: 27.000 (idle: -0.625)
+7 workers, 7 saved
+Wall time : 0.004s
+Total iterations: 8
+ 
+[FILE: Test-delta\Scholl-tests\Mertens-0.txt] [RUN: 1]  
+Optimal idleTime = 0.167 (R = 3.667, avgRj = 3.611)
+3 workstations
+Workstation 1: 1 2 5 -- W: 3, S: 2, T: 11.000, Rj: 3.667 (idle: 0.000)
+Workstation 2: 3 4 -- W: 2, S: 1, T: 7.000, Rj: 3.500 (idle: 0.167)
+Workstation 3: 6 7 -- W: 3, S: 1, T: 11.000, Rj: 3.667 (idle: 0.000)
+8 workers, 4 saved
+Wall time : 0.003s
+Total iterations: 7
+ 
+[FILE: Test-delta\Scholl-tests\Mertens-10.txt] [RUN: 1]  
+Optimal idleTime = 0.167 (R = 3.667, avgRj = 3.611)
+3 workstations
+Workstation 1: 1 2 5 -- W: 3, S: 2, T: 11.000, Rj: 3.667 (idle: 0.000)
+Workstation 2: 3 4 -- W: 2, S: 0, T: 7.000, Rj: 3.500 (idle: 0.167)
+Workstation 3: 6 7 -- W: 3, S: 1, T: 11.000, Rj: 3.667 (idle: 0.000)
+8 workers, 3 saved
+Wall time : 0.003s
+Total iterations: 20
+ 
+[FILE: Test-delta\Scholl-tests\Mertens-15.txt] [RUN: 1]  
+Optimal idleTime = 0.167 (R = 3.667, avgRj = 3.611)
+3 workstations
+Workstation 1: 1 2 5 -- W: 3, S: 2, T: 11.000, Rj: 3.667 (idle: 0.000)
+Workstation 2: 3 4 -- W: 2, S: 0, T: 7.000, Rj: 3.500 (idle: 0.167)
+Workstation 3: 6 7 -- W: 3, S: 1, T: 11.000, Rj: 3.667 (idle: 0.000)
+8 workers, 3 saved
+Wall time : 0.002s
+Total iterations: 5
+ 
+[FILE: Test-delta\Scholl-tests\Mertens-5.txt] [RUN: 1]  
+Optimal idleTime = 0.167 (R = 3.667, avgRj = 3.611)
+3 workstations
+Workstation 1: 1 2 5 -- W: 3, S: 2, T: 11.000, Rj: 3.667 (idle: 0.000)
+Workstation 2: 3 4 -- W: 2, S: 1, T: 7.000, Rj: 3.500 (idle: 0.167)
+Workstation 3: 6 7 -- W: 3, S: 1, T: 11.000, Rj: 3.667 (idle: 0.000)
+8 workers, 4 saved
+Wall time : 0.002s
+Total iterations: 5
+ 
+[FILE: Test-delta\Scholl-tests\Mitchell-0.txt] [RUN: 1]  
+Optimal idleTime = 1.000 (R = 6.000, avgRj = 5.889)
+9 workstations
+Workstation 1: 1 3 4 -- W: 3, S: 1, T: 18.000, Rj: 6.000 (idle: 0.000)
+Workstation 2: 2 5 -- W: 2, S: 1, T: 12.000, Rj: 6.000 (idle: 0.000)
+Workstation 3: 6 7 -- W: 2, S: 1, T: 12.000, Rj: 6.000 (idle: 0.000)
+Workstation 4: 8 9 11 -- W: 3, S: 1, T: 15.000, Rj: 5.000 (idle: 1.000)
+Workstation 5: 10 13 -- W: 1, S: 1, T: 6.000, Rj: 6.000 (idle: 0.000)
+Workstation 6: 12 15 -- W: 1, S: 1, T: 6.000, Rj: 6.000 (idle: 0.000)
+Workstation 7: 14 16 -- W: 1, S: 1, T: 6.000, Rj: 6.000 (idle: 0.000)
+Workstation 8: 17 18 -- W: 3, S: 1, T: 18.000, Rj: 6.000 (idle: 0.000)
+Workstation 9: 19 20 21 -- W: 2, S: 2, T: 12.000, Rj: 6.000 (idle: 0.000)
+18 workers, 10 saved
+Wall time : 0.150s
+Total iterations: 66
+ 
+[FILE: Test-delta\Scholl-tests\Mitchell-10.txt] [RUN: 1]  
+Optimal idleTime = 1.000 (R = 6.000, avgRj = 5.889)
+9 workstations
+Workstation 1: 1 3 4 -- W: 3, S: 1, T: 18.000, Rj: 6.000 (idle: 0.000)
+Workstation 2: 2 5 -- W: 2, S: 1, T: 12.000, Rj: 6.000 (idle: 0.000)
+Workstation 3: 6 7 -- W: 2, S: 1, T: 12.000, Rj: 6.000 (idle: 0.000)
+Workstation 4: 8 9 11 -- W: 3, S: 1, T: 15.000, Rj: 5.000 (idle: 1.000)
+Workstation 5: 10 13 -- W: 1, S: 1, T: 6.000, Rj: 6.000 (idle: 0.000)
+Workstation 6: 12 15 -- W: 1, S: 1, T: 6.000, Rj: 6.000 (idle: 0.000)
+Workstation 7: 14 16 -- W: 1, S: 1, T: 6.000, Rj: 6.000 (idle: 0.000)
+Workstation 8: 17 18 -- W: 3, S: 0, T: 18.000, Rj: 6.000 (idle: 0.000)
+Workstation 9: 19 20 21 -- W: 2, S: 2, T: 12.000, Rj: 6.000 (idle: 0.000)
+18 workers, 9 saved
+Wall time : 0.328s
+Total iterations: 63
+ 
+[FILE: Test-delta\Scholl-tests\Mitchell-15.txt] [RUN: 1]  
+Optimal idleTime = 1.000 (R = 6.000, avgRj = 5.889)
+9 workstations
+Workstation 1: 1 3 4 -- W: 3, S: 1, T: 18.000, Rj: 6.000 (idle: 0.000)
+Workstation 2: 2 5 -- W: 2, S: 1, T: 12.000, Rj: 6.000 (idle: 0.000)
+Workstation 3: 6 7 -- W: 2, S: 1, T: 12.000, Rj: 6.000 (idle: 0.000)
+Workstation 4: 8 9 11 -- W: 3, S: 1, T: 15.000, Rj: 5.000 (idle: 1.000)
+Workstation 5: 10 13 -- W: 1, S: 1, T: 6.000, Rj: 6.000 (idle: 0.000)
+Workstation 6: 12 15 -- W: 1, S: 1, T: 6.000, Rj: 6.000 (idle: 0.000)
+Workstation 7: 14 16 -- W: 1, S: 1, T: 6.000, Rj: 6.000 (idle: 0.000)
+Workstation 8: 17 18 -- W: 3, S: 0, T: 18.000, Rj: 6.000 (idle: 0.000)
+Workstation 9: 19 20 21 -- W: 2, S: 2, T: 12.000, Rj: 6.000 (idle: 0.000)
+18 workers, 9 saved
+Wall time : 0.355s
+Total iterations: 87
+ 
+[FILE: Test-delta\Scholl-tests\Mitchell-5.txt] [RUN: 1]  
+Optimal idleTime = 1.000 (R = 6.000, avgRj = 5.889)
+9 workstations
+Workstation 1: 1 3 4 -- W: 3, S: 1, T: 18.000, Rj: 6.000 (idle: 0.000)
+Workstation 2: 2 5 -- W: 2, S: 1, T: 12.000, Rj: 6.000 (idle: 0.000)
+Workstation 3: 6 7 -- W: 2, S: 1, T: 12.000, Rj: 6.000 (idle: 0.000)
+Workstation 4: 8 9 11 -- W: 3, S: 1, T: 15.000, Rj: 5.000 (idle: 1.000)
+Workstation 5: 10 13 -- W: 1, S: 1, T: 6.000, Rj: 6.000 (idle: 0.000)
+Workstation 6: 12 15 -- W: 1, S: 1, T: 6.000, Rj: 6.000 (idle: 0.000)
+Workstation 7: 14 16 -- W: 1, S: 1, T: 6.000, Rj: 6.000 (idle: 0.000)
+Workstation 8: 17 18 -- W: 3, S: 1, T: 18.000, Rj: 6.000 (idle: 0.000)
+Workstation 9: 19 20 21 -- W: 2, S: 2, T: 12.000, Rj: 6.000 (idle: 0.000)
+18 workers, 10 saved
+Wall time : 0.187s
+Total iterations: 58
+ 
+[FILE: Test-delta\Scholl-tests\Roszieg-0.txt] [RUN: 1]  
+Optimal idleTime = 0.500 (R = 7.000, avgRj = 6.944)
+9 workstations
+Workstation 1: 1 2 -- W: 1, S: 1, T: 7.000, Rj: 7.000 (idle: 0.000)
+Workstation 2: 3 4 8 -- W: 3, S: 1, T: 21.000, Rj: 7.000 (idle: 0.000)
+Workstation 3: 5 6 7 -- W: 3, S: 2, T: 21.000, Rj: 7.000 (idle: 0.000)
+Workstation 4: 9 11 13 -- W: 2, S: 1, T: 13.000, Rj: 6.500 (idle: 0.500)
+Workstation 5: 10 16 23 -- W: 1, S: 2, T: 7.000, Rj: 7.000 (idle: 0.000)
+Workstation 6: 12 14 20 -- W: 1, S: 2, T: 7.000, Rj: 7.000 (idle: 0.000)
+Workstation 7: 15 19 21 -- W: 2, S: 1, T: 14.000, Rj: 7.000 (idle: 0.000)
+Workstation 8: 17 24 -- W: 3, S: 1, T: 21.000, Rj: 7.000 (idle: 0.000)
+Workstation 9: 18 22 25 -- W: 2, S: 1, T: 14.000, Rj: 7.000 (idle: 0.000)
+18 workers, 12 saved
+Wall time : 0.427s
+Total iterations: 252
+ 
+[FILE: Test-delta\Scholl-tests\Roszieg-10.txt] [RUN: 1]  
+Optimal idleTime = 0.500 (R = 7.000, avgRj = 6.944)
+9 workstations
+Workstation 1: 1 2 -- W: 1, S: 1, T: 7.000, Rj: 7.000 (idle: 0.000)
+Workstation 2: 3 4 8 -- W: 3, S: 1, T: 21.000, Rj: 7.000 (idle: 0.000)
+Workstation 3: 5 6 7 -- W: 3, S: 2, T: 21.000, Rj: 7.000 (idle: 0.000)
+Workstation 4: 9 11 13 -- W: 2, S: 1, T: 13.000, Rj: 6.500 (idle: 0.500)
+Workstation 5: 10 16 23 -- W: 1, S: 2, T: 7.000, Rj: 7.000 (idle: 0.000)
+Workstation 6: 12 14 20 -- W: 1, S: 2, T: 7.000, Rj: 7.000 (idle: 0.000)
+Workstation 7: 15 19 21 -- W: 2, S: 1, T: 14.000, Rj: 7.000 (idle: 0.000)
+Workstation 8: 17 24 -- W: 3, S: 1, T: 21.000, Rj: 7.000 (idle: 0.000)
+Workstation 9: 18 22 25 -- W: 2, S: 1, T: 14.000, Rj: 7.000 (idle: 0.000)
+18 workers, 12 saved
+Wall time : 0.297s
+Total iterations: 152
+ 
+[FILE: Test-delta\Scholl-tests\Roszieg-15.txt] [RUN: 1]  
+Optimal idleTime = 0.500 (R = 7.000, avgRj = 6.944)
+9 workstations
+Workstation 1: 1 2 -- W: 1, S: 1, T: 7.000, Rj: 7.000 (idle: 0.000)
+Workstation 2: 3 4 8 -- W: 3, S: 1, T: 21.000, Rj: 7.000 (idle: 0.000)
+Workstation 3: 5 6 7 -- W: 3, S: 1, T: 21.000, Rj: 7.000 (idle: 0.000)
+Workstation 4: 9 11 13 -- W: 2, S: 1, T: 13.000, Rj: 6.500 (idle: 0.500)
+Workstation 5: 10 16 23 -- W: 1, S: 2, T: 7.000, Rj: 7.000 (idle: 0.000)
+Workstation 6: 12 14 20 -- W: 1, S: 2, T: 7.000, Rj: 7.000 (idle: 0.000)
+Workstation 7: 15 19 21 -- W: 2, S: 1, T: 14.000, Rj: 7.000 (idle: 0.000)
+Workstation 8: 17 24 -- W: 3, S: 0, T: 21.000, Rj: 7.000 (idle: 0.000)
+Workstation 9: 18 22 25 -- W: 2, S: 1, T: 14.000, Rj: 7.000 (idle: 0.000)
+18 workers, 10 saved
+Wall time : 0.399s
+Total iterations: 230
+ 
+[FILE: Test-delta\Scholl-tests\Roszieg-5.txt] [RUN: 1]  
+Optimal idleTime = 0.500 (R = 7.000, avgRj = 6.944)
+9 workstations
+Workstation 1: 1 2 -- W: 1, S: 1, T: 7.000, Rj: 7.000 (idle: 0.000)
+Workstation 2: 3 4 8 -- W: 3, S: 1, T: 21.000, Rj: 7.000 (idle: 0.000)
+Workstation 3: 5 6 7 -- W: 3, S: 2, T: 21.000, Rj: 7.000 (idle: 0.000)
+Workstation 4: 9 11 13 -- W: 2, S: 1, T: 13.000, Rj: 6.500 (idle: 0.500)
+Workstation 5: 10 16 23 -- W: 1, S: 2, T: 7.000, Rj: 7.000 (idle: 0.000)
+Workstation 6: 12 14 20 -- W: 1, S: 2, T: 7.000, Rj: 7.000 (idle: 0.000)
+Workstation 7: 15 19 21 -- W: 2, S: 1, T: 14.000, Rj: 7.000 (idle: 0.000)
+Workstation 8: 17 24 -- W: 3, S: 1, T: 21.000, Rj: 7.000 (idle: 0.000)
+Workstation 9: 18 22 25 -- W: 2, S: 1, T: 14.000, Rj: 7.000 (idle: 0.000)
+18 workers, 12 saved
+Wall time : 0.356s
+Total iterations: 139
+ 
+[FILE: Test-delta\Scholl-tests\Sawyer-0.txt] [RUN: 1]  
+Optimal idleTime = 2.000 (R = 11.333, avgRj = 11.152)
+11 workstations
+Workstation 1: 1 2 3 -- W: 3, S: 1, T: 34.000, Rj: 11.333 (idle: 0.000)
+Workstation 2: 4 5 16 -- W: 2, S: 1, T: 22.000, Rj: 11.000 (idle: 0.333)
+Workstation 3: 6 14 20 -- W: 3, S: 2, T: 34.000, Rj: 11.333 (idle: 0.000)
+Workstation 4: 7 8 18 -- W: 3, S: 1, T: 34.000, Rj: 11.333 (idle: 0.000)
+Workstation 5: 9 21 -- W: 2, S: 1, T: 22.000, Rj: 11.000 (idle: 0.333)
+Workstation 6: 10 22 23 -- W: 3, S: 2, T: 34.000, Rj: 11.333 (idle: 0.000)
+Workstation 7: 11 12 13 -- W: 3, S: 2, T: 34.000, Rj: 11.333 (idle: 0.000)
+Workstation 8: 15 17 -- W: 1, S: 1, T: 11.000, Rj: 11.000 (idle: 0.333)
+Workstation 9: 19 29 30 -- W: 3, S: 2, T: 34.000, Rj: 11.333 (idle: 0.000)
+Workstation 10: 24 25 26 -- W: 3, S: 1, T: 33.000, Rj: 11.000 (idle: 0.333)
+Workstation 11: 27 28 -- W: 3, S: 1, T: 32.000, Rj: 10.667 (idle: 0.667)
+29 workers, 15 saved
+Wall time : 1204.768s
+Total iterations: 103
+ 
+[FILE: Test-delta\Scholl-tests\Sawyer-10.txt] [RUN: 1]  
+Optimal idleTime = 0.611 (R = 17.028, avgRj = 17.028)
+12 workstations
+Workstation 1: 1 2 5 -- W: 1, S: 2, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 2: 3 12 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 3: 4 7 16 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 4: 6 15 17 -- W: 1, S: 2, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 5: 8 24 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 6: 9 23 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 7: 10 11 20 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 8: 13 14 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 9: 18 28 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 10: 19 29 30 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 11: 21 22 25 -- W: 3, S: 1, T: 52.000, Rj: 17.333 (idle: -0.306)
+Workstation 12: 26 27 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+19 workers, 14 saved
+Wall time : 60.134s
+Total iterations: 163
+ 
+[FILE: Test-delta\Scholl-tests\Sawyer-15.txt] [RUN: 1]  
+Optimal idleTime = 0.611 (R = 17.028, avgRj = 17.028)
+12 workstations
+Workstation 1: 1 2 5 -- W: 1, S: 2, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 2: 3 12 -- W: 2, S: 0, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 3: 4 7 16 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 4: 6 15 17 -- W: 1, S: 2, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 5: 8 24 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 6: 9 23 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 7: 10 11 20 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 8: 13 14 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 9: 18 28 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 10: 19 29 30 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 11: 21 22 25 -- W: 3, S: 1, T: 52.000, Rj: 17.333 (idle: -0.306)
+Workstation 12: 26 27 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+19 workers, 13 saved
+Wall time : 60.399s
+Total iterations: 174
+ 
+[FILE: Test-delta\Scholl-tests\Sawyer-5.txt] [RUN: 1]  
+Optimal idleTime = 0.611 (R = 17.028, avgRj = 17.028)
+12 workstations
+Workstation 1: 1 2 5 -- W: 1, S: 2, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 2: 3 12 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 3: 4 7 16 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 4: 6 15 17 -- W: 1, S: 2, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 5: 8 24 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 6: 9 23 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 7: 10 11 20 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 8: 13 14 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 9: 18 28 -- W: 1, S: 1, T: 17.000, Rj: 17.000 (idle: 0.028)
+Workstation 10: 19 29 30 -- W: 2, S: 2, T: 34.000, Rj: 17.000 (idle: 0.028)
+Workstation 11: 21 22 25 -- W: 3, S: 1, T: 52.000, Rj: 17.333 (idle: -0.306)
+Workstation 12: 26 27 -- W: 2, S: 1, T: 34.000, Rj: 17.000 (idle: 0.028)
+19 workers, 15 saved
+Wall time : 66.383s
+Total iterations: 156
+ 
